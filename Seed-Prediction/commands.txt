@@ -1,0 +1,1 @@
+python model_main_tf2.py \ --pipeline_config_path=inference_graph2.0/pipeline.config \ --model_dir=inference_graph2.0/training \ --alsologtostderr
